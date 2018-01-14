@@ -1,7 +1,7 @@
 {
-  "name": "Tau",
+  "name": "tau-js",
   "version": "1.0.0",
-  "description": "Tau",
+  "description": "tau-js",
   "main": "src/tau.js",
   "repository": "https://github.com/anabastos/tau-js",
   "author": "Ana Luiza Bastos",
