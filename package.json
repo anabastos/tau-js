@@ -1,0 +1,9 @@
+{
+  "name": "Tau",
+  "version": "1.0.0",
+  "description": "Tau",
+  "main": "src/tau.js",
+  "repository": "https://github.com/anabastos/tau-js",
+  "author": "Ana Luiza Bastos",
+  "license": "MIT"
+}
