@@ -5,5 +5,17 @@
   "main": "src/tau.js",
   "repository": "https://github.com/anabastos/tau-js",
   "author": "Ana Luiza Bastos",
-  "license": "MIT"
+  "scripts": {
+    "test": "mocha --ui bdd --reporter nyan tests/"
+  },
+  "keywords": [
+    "tau",
+    "math",
+    "pi"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^4.1.0",
+    "assert": "^1.4.1"
+  }
 }
