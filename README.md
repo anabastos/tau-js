@@ -19,7 +19,7 @@ yarn add tau-js
 ## Usage
 
 ```javascript
-const tau = require('tau-js');
+const tau = require('math-tau');
 ```
 
 Calculating the circumference of a circle
