@@ -7,7 +7,7 @@
 > Source: [math.wikia](http://math.wikia.com/wiki/Tau_(constant))
 
 ```bash
-yarn add tau-js
+yarn add math-tau
 ```
 
 ## Why?
