@@ -25,13 +25,13 @@ const tau = require('math-tau');
 Calculating the circumference of a circle
 ```javascript
 const calculateCircumference = radius => tau * radius;
-calculateCircumference(10) // 62.83185307179586
+calculateCircumference(10); // 62.83185307179586
 ```
 
 Euler's Formula
 ```javascript
-const eulerFormula = i => Math.cos(tau) + i * Math.sin(tau)
-eulerFormula(0) // Always (almost) 1
+const eulerFormula = i => Math.cos(tau) + i * Math.sin(tau);
+eulerFormula(0); // Always (almost) 1
 ```
 
 Extending native Math object
